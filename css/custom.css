@@ -1,0 +1,22 @@
+
+dy {
+  background-color: #f8f8f6 !important;
+  letter-spacing: 0.4px;
+}
+#article-container, .card-widget, .recent-post-item {
+  border-radius: 12px !important;
+  box-shadow: 0 2px 12px rgba(115, 140, 166, 0.08) !important;
+}
+.post-title {
+  font-weight: 500;
+  color: #445566;
+}
+#article-container p {
+  line-height: 1.85;
+  color: #3a3a3a;
+}
+.tags a, .category a {
+  background: #eef2f7;
+  color: #607890;
+  border-radius: 20px;
+}
